@@ -1,2 +1,4 @@
 # software-problem
-IDEA、Android Srudio、Mysql等软件遇到的小问题
+此仓库保存的内容格式为word、xmind，如需如何打开则按照如下内容提示操作即可
+
+暂时未上传文件，由于本人寻找工作当做，望理解，谢谢。
